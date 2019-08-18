@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/mnt/c/Users/Jake/entellan/source/entellan/entellan/data'
+let g:netrw_dirhist_2='/mnt/c/Users/Jake/entellan/processing/sp500_socgen/source'
+let g:netrw_dirhist_3='/mnt/c/Users/Jake/dotfiles'
